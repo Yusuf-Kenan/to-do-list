@@ -4,4 +4,4 @@
 
 <h2>Project GIF</h2>
 
-![](whatToTo.gif)
+![](whatToDo.gif)
