@@ -1,0 +1,14 @@
+#addButton:active {
+    background: lightseagreen !important;
+}
+
+#clearButton:active{
+    background: lightsalmon !important;
+}
+
+.parag-styling{
+    cursor: pointer;
+    font-size: 35px;
+    color: darkblue;
+    text-transform: capitalize;
+}
